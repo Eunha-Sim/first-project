@@ -1072,4 +1072,5 @@ int main(int argc, char* argv[]) {
     LOCALPLANNERTHREAD();  
 
     return 0;
+    // 추가했다 이부분
 } 
